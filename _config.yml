@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Fadma Ennaji
+twitter_username: fadmaennaji
+name: Fadma Ennaji
 
 # Build settings
 markdown: kramdown
@@ -9,32 +9,25 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+ - title: DeepAfricAI
+   url: http://deepafricai.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/fadma1996
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: http://stackoverflow.com/users/8808274/f-ennaji
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://https://www.linkedin.com/in/fadma-ennaji-72a3b7158/
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
+ - JavaScript
+ - JEE
+ - Web developpement
+ - Android
  - Java
  - JPA
  - SQL
- - REST
+ - C,C++
  - Technical Architecture
  - Machine learning
 
@@ -43,12 +36,12 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
+ - title: Developer
+   start: 04/2019
+   end: 06/2019
+   employer: ENERGIEDIN
+   description: Developing Android App of flowers delivery. 
+ - title: Developer
    start: 2016
    end: 2017
    employer: Emerald Street Ventures
